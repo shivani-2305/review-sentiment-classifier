@@ -1,9 +1,10 @@
 # Sentiment classifier using LLM
-A python project that classifies text as positive, negative or mixed.
+A GenAi project that classifies customer reviews as positive, negative or mixed.
 # Tools used
 -Python
--Google colab
--LLM API name
+-Google Gemini API
+-Gooogle colab
+-Prompt Engineering
 # Prompt approach
 - instructions with fixed format
 # How to run
